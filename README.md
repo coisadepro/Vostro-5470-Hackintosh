@@ -1,7 +1,24 @@
-# Vostro 5470 Hackintosh
+# Dell Vostro 5470 Hackintosh
 This repo contains files used in my guide on **How to Hackintosh Vostro 5470**.
 
 If you have this same machine and would like to install macOS on it, you might want to take a look at the guide, as it contains lots of information I obtained after quite a lot of research and trial and error.
+
+## What works
+- Full QE/CI (via hotpatching)
+- Camera works (OOB)
+- Ethernet works (via kext)
+- Sound / Microphone works (via AppleALC + Clover layout ID)
+- Brightness control (via hotpatching)
+- Optimus Graphics disabled (via hotpatching)
+- PS/2 keyboard and touch pad (ELAN kext with gestures)
+- Restarting and Shutdown (via shutdown patch)
+- Battery status (via hotpatching)
+- Sleep (seems to be working)
+
+## Known issues
+- Internal Wireless and Bluetooth don't work (should buy a replacement card or USB wifi)
+- Sound is lower than expected (I'm working in a fix for this)
+- Some particular details about shutdown ([read more](https://github.com/coisadepro/5470-shutdown-patch))
 
 ## Required tools
 - Clover: [RehabMan's fork](https://bitbucket.org/RehabMan/clover/downloads/) - **[Download](https://bitbucket.org/RehabMan/clover/downloads/Clover_v2.4k_r4359.RM-4506.7036cf0a.zip)**
