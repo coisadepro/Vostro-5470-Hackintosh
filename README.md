@@ -30,7 +30,9 @@ If you have this same machine and would like to install macOS on it, you might w
 - SSDT-PTSWAK.aml [Source](https://github.com/coisadepro/Vostro-5470-Hackintosh/blob/master/SSDTs/SSDT-PTSWAK.dsl) - **[Download](https://github.com/coisadepro/Vostro-5470-Hackintosh/blob/master/Bin/SSDT-Extra/SSDT-PTSWAK.aml?raw=true)**
 
 ## Required Clover config.plist
-I **DO** recommend you to [use this](https://raw.githubusercontent.com/coisadepro/Vostro-5470-Hackintosh/master/config.plist) ```config.plist``` as a base for yours, as it's already **properly configured** with tons of required patches and adjustments. I recommend **against** using Clover Configurator to modify those .plist files as it used to damage the file. **DO NOT USE** text editors to edit ```config.plist```. Your should either use: Xcode or some other plist editor software.
+I **DO** recommend you to [use this](https://raw.githubusercontent.com/coisadepro/Vostro-5470-Hackintosh/master/config.plist) ```config.plist``` as a base for yours, as it's already **properly configured** with tons of required patches and adjustments.
+
+I recommend **against** using Clover Configurator to modify those .plist files as it used to damage the file. **DO NOT USE** text editors to edit ```config.plist```. Your should either use: Xcode or some other plist editor software.
 
 RehabMan about Clover Configurator | [(Full post)](https://www.tonymacx86.com/threads/guide-lenovo-y50-uhd-or-1080p-using-clover-uefi.232960/)
 
