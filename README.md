@@ -18,7 +18,7 @@ If you have this same machine and would like to install macOS on it, you might w
 ## Known issues
 - Internal Wireless and Bluetooth don't work (should buy a replacement card or USB wifi)
 - Sound is lower than expected (I'm working in a fix for this)
-- Some particular details about shutdown ([read more](https://github.com/coisadepro/5470-shutdown-patch))
+- Some particular details about shutdown ([read more](https://github.com/coisadepro/5470-shutdown-patch#helpful-advices))
 
 ## Required tools
 - Clover: [RehabMan's fork](https://bitbucket.org/RehabMan/clover/downloads/) - **[Download](https://bitbucket.org/RehabMan/clover/downloads/Clover_v2.4k_r4359.RM-4506.7036cf0a.zip)**
