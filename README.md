@@ -1,9 +1,11 @@
 # Vostro 5470 Hackintosh
-This repo contains files used in my guide on *How to Hackintosh Vostro 5470*. If you have this same machine and would like to install macOS on it, you might want to take a look at the guide, as it contains lots of information I obtained after quite a lot of research and trial and error.
+This repo contains files used in my guide on **How to Hackintosh Vostro 5470**.
+
+If you have this same machine and would like to install macOS on it, you might want to take a look at the guide, as it contains lots of information I obtained after quite a lot of research and trial and error.
 
 ## Required tools
 - Clover: [RehabMan's fork](https://bitbucket.org/RehabMan/clover/downloads/) - **[Download](https://bitbucket.org/RehabMan/clover/downloads/Clover_v2.4k_r4359.RM-4506.7036cf0a.zip)**
-- Shutdown Fix: [GitHub repo](https://github.com/coisadepro/5470-shutdown-patch) - **[Download](https://github.com/coisadepro/5470-shutdown-patch/releases/download/v1.0/5470_Shutdown_Patch_v1.zip)**
+- Shutdown Patch: [GitHub repo](https://github.com/coisadepro/5470-shutdown-patch) - **[Download](https://github.com/coisadepro/5470-shutdown-patch/releases/download/v1.0/5470_Shutdown_Patch_v1.zip)**
 
 ## Required kexts
 - FakeSMC: [RehabMan's fork](https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/) - **[Download](https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/RehabMan-FakeSMC-2017-1017.zip)**
