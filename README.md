@@ -1,3 +1,12 @@
+# THIS IS NOT WORKING AS EXPECTED (Deprecated)
+I advise against trying to do a Hackintosh on this machine, as the shutdown issue could not be completely fixed. Everything works, except for that. If you manage to fix it, you'll have a fully working Hackintosh. I tried for a long time and ended up giving up and going back to Windows. I don't use that laptop much, and have fully functional Desktop Hackintoshes (which by the way are MUCH easier to work with).
+
+You might want to take a look at my comments on both [issue #1](https://github.com/coisadepro/Vostro-5470-Hackintosh/issues/1) and [issue #2](https://github.com/coisadepro/Vostro-5470-Hackintosh/issues/2).
+
+Original README below.
+
+<hr>
+
 # Dell Vostro 5470 Hackintosh
 This repo contains files used in my guide on **How to Hackintosh Vostro 5470**.
 
